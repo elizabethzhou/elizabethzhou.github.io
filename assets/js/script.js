@@ -57,6 +57,7 @@ $("#blog-description").hover(function(){
   $("#description-links").show();
 });
 
+/*submit hover*/
 $("#submit").hover(function(){
   $("#submit").addClass("submit-hover");
 });
